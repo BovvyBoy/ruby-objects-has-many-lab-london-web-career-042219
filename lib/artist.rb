@@ -6,5 +6,8 @@ class Artist
     @genre = genre
   end
   
+  def name
+    @name
+  end
   
 end
